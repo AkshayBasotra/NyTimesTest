@@ -1,19 +1,30 @@
 package com.test.xebia.nytimes.model
 
+import android.os.Build
+import androidx.annotation.RequiresApi
+import androidx.room.*
 import com.google.gson.annotations.SerializedName
+import com.test.xebia.nytimes.data.DataConverter
+import java.util.*
 
-data class NewsModel (
-    @SerializedName("title")
-    val title: String? = null,
-    @SerializedName("abstract")
-    val abstract: String? = null,
-    @SerializedName("published_date")
-    val published_date: String? = null,
-    @SerializedName("source")
-    val source: String? = null,
-    @SerializedName("views")
-    val views: Int,
-    @SerializedName("media")
-    val media: MediaModel? = null
+@Entity(tableName = "news")
+ data class NewsModel (
+    @PrimaryKey(autoGenerate = true)
+    var id: Long = 0,
+    @field:SerializedName("title")
+    var title: String? = null,
+    @field:SerializedName("abstract")
+    var abstract: String? = null,
+    @field:SerializedName("published_date")
+    var published_date: String? = null,
+    @field:SerializedName("source")
+    var source: String? = null,
+    @field:SerializedName("views")
+    var views: Int = 0
+
+    /*@Ignore
+    @field:SerializedName("media")
+    var media: MediaModel? = null*/
+
 
 )

@@ -1,57 +1,38 @@
 package com.test.xebia.nytimes.data
 
+import android.app.Application
+import android.content.Context
 import com.test.xebia.nytimes.api.ApiService
-
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
-class NewsRepository private constructor() {
+class NewsRepository(ctx: Application, db: NewsDao) {
+
+
     private lateinit var apiService: ApiService
+    private lateinit var dao: NewsDao
+    lateinit var context: Context
+
+    val news = resultLiveData(
+        databaseQuery = { dao.getNews() },
+        networkCall = { NewsRemoteDataSource(apiService).fetchNewsList() },
+        saveCallResult = { dao.insertAll(it.results) })
 
 
 
-   /* // TODO better error handling in part #2 ...
-    val newsList: LiveData<List<NewsRepository>>
-        get() {
-            val data = MutableLiveData<List<NewsModel>>()
-            apiService.getMostPopularNews().enqueue(object : Callback<ResultsResponse<NewsModel>> {
-                override fun onResponse(
-                    call: Call<ResultsResponse<NewsModel>>,
-                    response: Response<ResultsResponse<NewsModel>>
-                ) {
-
-                }
-
-                override fun onFailure(call: Call<ResultsResponse<NewsModel>>, t: Throwable) {
-                    TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
-                }
-            })
-
-
-        }*/
-
-    init {
-         TODO("this gitHubService instance will be injected using Dagger in part #2 ...")
+     init {
+         /*TODO("this gitHubService instance will be injected using Dagger in part #2 ...")*/
         val retrofit = Retrofit.Builder()
             .baseUrl(ApiService.ENDPOINT)
             .addConverterFactory(GsonConverterFactory.create())
             .build()
-
+        this.context = ctx
         apiService = retrofit.create(ApiService::class.java)
+        dao = db
+
     }
 
-    companion object {
-        private var newsRepository: NewsRepository? = null
-        //TODO("No need to implement this singleton in Part #2 since Dagger will handle it ...")
-        val instance: NewsRepository
-            @Synchronized get() {
-                if (newsRepository == null) {
-                    newsRepository =
-                        NewsRepository()
-                }
-                return newsRepository!!
-            }
-    }
+
 
 
 }

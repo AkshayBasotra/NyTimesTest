@@ -1,16 +1,19 @@
 package com.test.xebia.nytimes.model
 
+import androidx.room.Embedded
+import androidx.room.Ignore
+import androidx.room.TypeConverters
 import com.google.gson.annotations.SerializedName
+import com.test.xebia.nytimes.data.DataConverter
 
-data class MediaModel (
-    @SerializedName("type")
-    val type: String? = null,
-    @SerializedName("caption")
-    val caption: String? = null,
-    @SerializedName("copyright")
-    val copyright: String? = null,
-    @SerializedName("media-metadata")
-    val media_metadata: List<MediaMetaDataModel>? = null
-
-
-)
+ class MediaModel {
+     @SerializedName("type")
+     var type: String? = null
+     @SerializedName("caption")
+     var caption: String? = null
+     @SerializedName("copyright")
+     var copyright: String? = null
+     @Embedded
+     @SerializedName("media-metadata")
+     var media_metadata: List<MediaMetaDataModel>? = null
+ }
