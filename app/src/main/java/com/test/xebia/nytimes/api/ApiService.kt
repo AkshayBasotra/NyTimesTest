@@ -7,7 +7,7 @@ import retrofit2.http.Query
 
 interface ApiService {
     companion object {
-        const val ENDPOINT = "https://api.nytimes.com/svc/"
+         const val ENDPOINT = "https://api.nytimes.com/svc/"
     }
 
     @GET("mostpopular/v2/viewed/1.json?api-key=uhGpRWaUac64bfxUuGLYC2slLoQVFrFu")

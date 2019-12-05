@@ -1,8 +1,9 @@
-package com.test.xebia.nytimes
+package com.test.xebia.nytimes.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-//test commit
+import com.test.xebia.nytimes.R
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {

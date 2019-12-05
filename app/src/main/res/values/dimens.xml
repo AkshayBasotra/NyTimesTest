@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_font_medium">16sp</dimen>
+    <dimen name="text_font_small">14sp</dimen>
+    <dimen name="text_font_large">20sp</dimen>
+    <dimen name="icon_size">30dp</dimen>
+    <dimen name="margin_bottom_medium">10dp</dimen>
+    <dimen name="margin_bottom_large">16dp</dimen>
+    <dimen name="margin_bottom_small">5dp</dimen>
+</resources>
