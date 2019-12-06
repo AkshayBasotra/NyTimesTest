@@ -1,4 +1,4 @@
-package com.test.xebia.nytimes.NewsList.data
+package com.test.xebia.nytimes.newsList.data
 
 import com.test.xebia.nytimes.api.ApiService
 import com.test.xebia.nytimes.api.BaseDataSource

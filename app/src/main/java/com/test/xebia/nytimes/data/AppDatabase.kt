@@ -9,8 +9,8 @@ import androidx.sqlite.db.SupportSQLiteDatabase
 import androidx.work.OneTimeWorkRequestBuilder
 import androidx.work.WorkManager
 import com.elifox.legocatalog.worker.SeedDatabaseWorker
-import com.test.xebia.nytimes.NewsList.data.NewsDao
-import com.test.xebia.nytimes.NewsList.data.NewsModel
+import com.test.xebia.nytimes.newsList.data.NewsDao
+import com.test.xebia.nytimes.newsList.data.NewsModel
 
 @Database(entities = [NewsModel::class], version = 4, exportSchema = false)
 @TypeConverters(DataConverter::class)

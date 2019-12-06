@@ -3,7 +3,7 @@ package com.test.xebia.nytimes.di
 import android.app.Application
 import com.test.xebia.nytimes.api.ApiService
 import com.test.xebia.nytimes.data.AppDatabase
-import com.test.xebia.nytimes.NewsList.data.NewsRemoteDataSource
+import com.test.xebia.nytimes.newsList.data.NewsRemoteDataSource
 import dagger.Module
 import dagger.Provides
 import kotlinx.coroutines.CoroutineScope

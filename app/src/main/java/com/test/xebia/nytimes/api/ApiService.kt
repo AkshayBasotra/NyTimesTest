@@ -1,6 +1,6 @@
 package com.test.xebia.nytimes.api
 
-import com.test.xebia.nytimes.NewsList.data.NewsModel
+import com.test.xebia.nytimes.newsList.data.NewsModel
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

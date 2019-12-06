@@ -1,4 +1,4 @@
-package com.test.xebia.nytimes.NewsList.ui
+package com.test.xebia.nytimes.newsList.ui
 
 import android.os.Bundle
 import android.util.Log

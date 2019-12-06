@@ -5,7 +5,7 @@
     <data>
         <variable
             name="newsmodel"
-            type="com.test.xebia.nytimes.NewsList.data.NewsModel" />
+            type="com.test.xebia.nytimes.newsList.data.NewsModel" />
 
         <variable
             name="imageUrl"
@@ -60,7 +60,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/margin_bottom_small"
             android:text="@{newsmodel.byline}"
-            android:textSize="@dimen/text_font_medium" />
+            android:textSize="@dimen/text_font_small" />
 
         <TextView
             android:layout_width="match_parent"

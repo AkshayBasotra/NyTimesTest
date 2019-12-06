@@ -1,4 +1,4 @@
-package com.test.xebia.nytimes.NewsList.ui
+package com.test.xebia.nytimes.newsList.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.test.xebia.nytimes.databinding.NewsRowBinding
-import com.test.xebia.nytimes.NewsList.data.NewsModel
+import com.test.xebia.nytimes.newsList.data.NewsModel
 
 class NewsAdapter : ListAdapter<NewsModel, NewsAdapter.MyViewHolder>(
     DiffCallback()

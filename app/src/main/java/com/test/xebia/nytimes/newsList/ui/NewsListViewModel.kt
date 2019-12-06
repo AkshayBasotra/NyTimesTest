@@ -1,9 +1,9 @@
-package com.test.xebia.nytimes.NewsList.ui
+package com.test.xebia.nytimes.newsList.ui
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 
-import com.test.xebia.nytimes.NewsList.data.NewsRepository
+import com.test.xebia.nytimes.newsList.data.NewsRepository
 import javax.inject.Inject
 
 class NewsListViewModel @Inject constructor(application: Application,repository: NewsRepository) : AndroidViewModel(application) {

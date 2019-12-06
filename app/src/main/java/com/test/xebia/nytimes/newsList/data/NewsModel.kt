@@ -1,11 +1,7 @@
-package com.test.xebia.nytimes.NewsList.data
+package com.test.xebia.nytimes.newsList.data
 
-import android.os.Build
-import androidx.annotation.RequiresApi
 import androidx.room.*
 import com.google.gson.annotations.SerializedName
-import com.test.xebia.nytimes.data.DataConverter
-import java.util.*
 
 @Entity(tableName = "news")
 data class NewsModel(

@@ -3,7 +3,7 @@ package com.test.xebia.nytimes
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import com.test.xebia.nytimes.NewsList.ui.NewsListFragment
+import com.test.xebia.nytimes.newsList.ui.NewsListFragment
 import dagger.android.AndroidInjection
 import dagger.android.AndroidInjector
 import dagger.android.DispatchingAndroidInjector

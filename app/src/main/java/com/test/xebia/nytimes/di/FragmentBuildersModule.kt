@@ -1,6 +1,6 @@
 package com.test.xebia.nytimes.di
 
-import com.test.xebia.nytimes.NewsList.ui.NewsListFragment
+import com.test.xebia.nytimes.newsList.ui.NewsListFragment
 import dagger.Module
 import dagger.android.ContributesAndroidInjector
 

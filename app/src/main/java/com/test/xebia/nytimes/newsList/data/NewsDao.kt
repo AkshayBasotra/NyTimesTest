@@ -1,11 +1,10 @@
-package com.test.xebia.nytimes.NewsList.data
+package com.test.xebia.nytimes.newsList.data
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.test.xebia.nytimes.NewsList.data.NewsModel
 
 @Dao
 interface NewsDao {
