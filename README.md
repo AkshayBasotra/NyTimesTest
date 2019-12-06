@@ -53,5 +53,10 @@ A sample app consist of 1 screen: News Listing.
 
 
 # IDE Setup
-To open this project you need android studio with latest version. Here is the link to download [Link](https://developer.android.com/studio/)
+To open this project you need android studio with latest version. Here is the link to download [Link](https://developer.android.com/studio/).
+Here are the steps to run this project.
+* Install Android studio.
+* Clone this project and setup it in your android studio.
+* Connect your device to pc.
+* Click on horrizontal green triangle to run this application.
 
