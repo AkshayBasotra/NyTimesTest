@@ -58,9 +58,8 @@ class ApiServiceTest {
         runBlocking {
             enqueueResponse("news.json")
             val resultResponse = service.getMostPopularNews().body()
-            val legoSets = resultResponse!!.results
-            assertThat(resultResponse.num_results, `is`(1406))
-            assertThat(resultResponse.results.size, `is`(20))
+            assertThat(resultResponse?.num_results, `is`(1406))
+            assertThat(resultResponse?.results?.size, `is`(20))
         }
     }
 

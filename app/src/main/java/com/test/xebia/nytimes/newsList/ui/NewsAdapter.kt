@@ -33,7 +33,7 @@ class NewsAdapter : ListAdapter<NewsModel, NewsAdapter.MyViewHolder>(
         fun bind( item: NewsModel) {
             binding.apply {
                 newsmodel = item
-                //imageUrl = item.media?.media_metadata?.get(0)?.url ?: ""
+                imageUrl = item.media?.get(0)?.media_metadata?.get(0)?.url ?: ""
                 executePendingBindings()
             }
         }

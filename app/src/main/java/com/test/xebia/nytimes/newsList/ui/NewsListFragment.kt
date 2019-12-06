@@ -55,7 +55,7 @@ class NewsListFragment : Fragment(), Injectable {
                 Result.Status.LOADING -> binding.progressBar.show()
                 Result.Status.ERROR -> {
                     binding.progressBar.hide()
-                    Log.d(TAG,"error")
+                    Log.d(TAG,result.message)
                    // Snackbar.make(binding.root, result.message!!, Snackbar.LENGTH_LONG).show()
                 }
             }

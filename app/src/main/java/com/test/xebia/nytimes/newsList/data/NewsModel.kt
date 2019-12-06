@@ -2,6 +2,7 @@ package com.test.xebia.nytimes.newsList.data
 
 import androidx.room.*
 import com.google.gson.annotations.SerializedName
+import com.test.xebia.nytimes.model.MediaModel
 
 @Entity(tableName = "news")
 data class NewsModel(
@@ -18,10 +19,10 @@ data class NewsModel(
     @field:SerializedName("views")
     var views: Int = 0,
     @field:SerializedName("byline")
-    var byline: String? =  null
-/*@Ignore
-@field:SerializedName("media")
-var media: MediaModel? = null*/
+    var byline: String? = null,
+
+    @field:SerializedName("media")
+    var media: List<MediaModel>? = null
 
 
 )

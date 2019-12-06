@@ -12,7 +12,7 @@ import com.elifox.legocatalog.worker.SeedDatabaseWorker
 import com.test.xebia.nytimes.newsList.data.NewsDao
 import com.test.xebia.nytimes.newsList.data.NewsModel
 
-@Database(entities = [NewsModel::class], version = 4, exportSchema = false)
+@Database(entities = [NewsModel::class], version = 5, exportSchema = false)
 @TypeConverters(DataConverter::class)
 abstract class AppDatabase: RoomDatabase() {
     abstract fun newsDao(): NewsDao
