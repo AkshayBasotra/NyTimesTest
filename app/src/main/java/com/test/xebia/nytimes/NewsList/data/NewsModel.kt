@@ -1,4 +1,4 @@
-package com.test.xebia.nytimes.model
+package com.test.xebia.nytimes.NewsList.data
 
 import android.os.Build
 import androidx.annotation.RequiresApi
@@ -8,7 +8,7 @@ import com.test.xebia.nytimes.data.DataConverter
 import java.util.*
 
 @Entity(tableName = "news")
- data class NewsModel (
+data class NewsModel(
     @PrimaryKey(autoGenerate = true)
     var id: Long = 0,
     @field:SerializedName("title")
@@ -20,11 +20,12 @@ import java.util.*
     @field:SerializedName("source")
     var source: String? = null,
     @field:SerializedName("views")
-    var views: Int = 0
-
-    /*@Ignore
-    @field:SerializedName("media")
-    var media: MediaModel? = null*/
+    var views: Int = 0,
+    @field:SerializedName("byline")
+    var byline: String? =  null
+/*@Ignore
+@field:SerializedName("media")
+var media: MediaModel? = null*/
 
 
 )

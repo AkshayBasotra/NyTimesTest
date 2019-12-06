@@ -1,5 +1,6 @@
-package com.test.xebia.nytimes.data
+package com.test.xebia.nytimes.api
 
+import com.test.xebia.nytimes.data.Result
 import retrofit2.Response
 import timber.log.Timber
 
@@ -9,7 +10,9 @@ abstract class BaseDataSource {
              val response = call()
              if (response.isSuccessful) {
                  val body = response.body()
-                 if (body != null) return Result.success(body)
+                 if (body != null) return Result.success(
+                     body
+                 )
              }
              return error(" ${response.code()} ${response.message()}")
          } catch (e: Exception) {

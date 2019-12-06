@@ -5,7 +5,7 @@
     <data>
         <variable
             name="newsmodel"
-            type="com.test.xebia.nytimes.model.NewsModel" />
+            type="com.test.xebia.nytimes.NewsList.data.NewsModel" />
 
         <variable
             name="imageUrl"
@@ -28,6 +28,7 @@
             android:layout_width="100dp"
             android:layout_gravity="right"
             android:layout_height="100dp"
+            android:src="@drawable/nylogo"
            />
 
     </LinearLayout>
@@ -58,7 +59,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/margin_bottom_small"
-            android:text="By R.K. Mittal"
+            android:text="@{newsmodel.byline}"
             android:textSize="@dimen/text_font_medium" />
 
         <TextView

@@ -1,8 +1,5 @@
-package com.test.xebia.nytimes.view
+package com.test.xebia.nytimes.NewsList.ui
 
-import android.app.Activity
-import android.app.Application
-import android.content.Context
 import android.os.Bundle
 import android.util.Log
 import android.view.LayoutInflater
@@ -11,33 +8,29 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.ViewModelProviders
 import com.test.xebia.nytimes.R
-import com.test.xebia.nytimes.data.AppDatabase
-import com.test.xebia.nytimes.data.NewsRepository
 import com.test.xebia.nytimes.databinding.FragmentNewsListBinding
-import com.test.xebia.nytimes.view.adapter.NewsAdapter
-import com.test.xebia.nytimes.viewmodel.NewsListViewModel
 import com.test.xebia.nytimes.data.Result
-import com.test.xebia.nytimes.hide
-import com.test.xebia.nytimes.show
-import timber.log.Timber
+import com.test.xebia.nytimes.di.Injectable
+import com.test.xebia.nytimes.di.injectViewModel
+import com.test.xebia.nytimes.ui.hide
+import com.test.xebia.nytimes.ui.show
+import javax.inject.Inject
 
 
-class NewsListFragment : Fragment() {
+class NewsListFragment : Fragment(), Injectable {
     val TAG = "ProjectListFragment"
+    @Inject lateinit var viewModelFactory: ViewModelProvider.Factory
+    private lateinit var viewModel: NewsListViewModel
     lateinit var newsAdapter: NewsAdapter
     lateinit var binding: FragmentNewsListBinding
-    lateinit var newsRepository: NewsRepository
-    lateinit var ctx: Context
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        ctx = activity as MainActivity
+        viewModel = injectViewModel(viewModelFactory)
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_news_list,container,false)
         initViews()
 
@@ -46,12 +39,9 @@ class NewsListFragment : Fragment() {
 
     private fun initViews() {
         newsAdapter = NewsAdapter()
-        val db = AppDatabase.getInstance(context = ctx).newsDao()
-        newsRepository = NewsRepository(Application(),db)
-        val viewModel = ViewModelProviders.of(this, CustomViewModelFactory(Application(),newsRepository) ).get(NewsListViewModel::class.java)
         binding.recyclerView.adapter = newsAdapter
         subscribeUi(viewModel)
-        setHasOptionsMenu(true)
+       // setHasOptionsMenu(true)
     }
 
 
@@ -70,14 +60,6 @@ class NewsListFragment : Fragment() {
                 }
             }
         })
-    }
-
-    inner class CustomViewModelFactory(private val application: Application, private val newsRepository: NewsRepository) : ViewModelProvider.NewInstanceFactory() {
-
-        override fun <T : ViewModel?> create(modelClass: Class<T>): T {
-            return NewsListViewModel(application,newsRepository) as T
-        }
-
     }
 
 

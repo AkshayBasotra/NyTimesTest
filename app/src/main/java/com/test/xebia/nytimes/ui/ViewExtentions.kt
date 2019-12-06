@@ -1,4 +1,4 @@
-package com.test.xebia.nytimes
+package com.test.xebia.nytimes.ui
 
 import android.view.View
 import android.widget.ProgressBar

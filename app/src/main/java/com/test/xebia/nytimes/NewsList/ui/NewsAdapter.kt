@@ -1,18 +1,19 @@
-package com.test.xebia.nytimes.view.adapter
+package com.test.xebia.nytimes.NewsList.ui
 
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.test.xebia.nytimes.databinding.NewsRowBinding
-import com.test.xebia.nytimes.model.NewsModel
+import com.test.xebia.nytimes.NewsList.data.NewsModel
 
-class NewsAdapter : ListAdapter<NewsModel, NewsAdapter.MyViewHolder>(DiffCallback()) {
+class NewsAdapter : ListAdapter<NewsModel, NewsAdapter.MyViewHolder>(
+    DiffCallback()
+) {
 
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): NewsAdapter.MyViewHolder {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
         return MyViewHolder(
             NewsRowBinding.inflate(
                 LayoutInflater.from(parent.context), parent, false

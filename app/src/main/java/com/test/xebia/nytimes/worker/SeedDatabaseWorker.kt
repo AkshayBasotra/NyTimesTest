@@ -8,8 +8,7 @@ import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.google.gson.stream.JsonReader
 import com.test.xebia.nytimes.data.AppDatabase
-import com.test.xebia.nytimes.data.NewsDao
-import com.test.xebia.nytimes.model.NewsModel
+import com.test.xebia.nytimes.NewsList.data.NewsModel
 import com.test.xebia.nytimes.util.Constants.DATA_FILENAME
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.coroutineScope
