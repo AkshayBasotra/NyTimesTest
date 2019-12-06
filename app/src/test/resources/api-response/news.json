@@ -1,0 +1,1188 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1406,
+    "results": [
+        {
+            "url": "https://www.nytimes.com/2019/12/05/nyregion/rkelly-aaliyah.html",
+            "adx_keywords": "Kelly, R;Aaliyah;Child Abuse and Neglect;Marriages;Age, Chronological;Brooklyn (NYC)",
+            "column": null,
+            "section": "New York",
+            "byline": "By NICOLE HONG",
+            "type": "Article",
+            "title": "R. Kelly Married Aaliyah at Age 15 by Using Bribes, Charges Allege",
+            "abstract": "He bribed a government employee in 1994 so that he could obtain a fake ID for the singer Aaliyah, a person familiar with the matter said.",
+            "published_date": "2019-12-05",
+            "source": "The New York Times",
+            "id": 100000006861260,
+            "asset_id": 100000006861260,
+            "views": 1,
+            "des_facet": [
+                "CHILD ABUSE AND NEGLECT",
+                "MARRIAGES",
+                "AGE, CHRONOLOGICAL"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "KELLY, R",
+                "AALIYAH"
+            ],
+            "geo_facet": [
+                "BROOKLYN (NYC)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "R. Kelly has been criminally charged this year in Illinois, New York and Minnesota over sex abuse of minors.",
+                    "copyright": "Amr Alfiky/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/06/nyregion/06rkelly-print1/05rkelly001-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/06/nyregion/06rkelly-print1/05rkelly001-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/06/nyregion/06rkelly-print1/05rkelly001-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/82a7b160-148b-58ff-8975-7f17f7f7eac1"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/04/us/politics/trump-impeachment-inquiry.html",
+            "adx_keywords": "Trump, Donald J;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Impeachment;North Atlantic Treaty Organization;Macron, Emmanuel (1977- );Trudeau, Justin;Canada;France",
+            "column": "WHITE HOUSE MEMO",
+            "section": "U.S.",
+            "byline": "By PETER BAKER",
+            "type": "Article",
+            "title": "Mocked Abroad and Assailed at Home, Trump Returns to Face Impeachment",
+            "abstract": "Two days in London on the world stage provided him no respite.",
+            "published_date": "2019-12-04",
+            "source": "The New York Times",
+            "id": 100000006858736,
+            "asset_id": 100000006858736,
+            "views": 2,
+            "des_facet": [
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY",
+                "IMPEACHMENT"
+            ],
+            "org_facet": [
+                "NORTH ATLANTIC TREATY ORGANIZATION"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "MACRON, EMMANUEL (1977- )",
+                "TRUDEAU, JUSTIN"
+            ],
+            "geo_facet": [
+                "CANADA",
+                "FRANCE"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump leaving London on Wednesday for Washington.",
+                    "copyright": "Al Drago for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/us/politics/04dc-memo1/04dc-memo1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/us/politics/04dc-memo1/04dc-memo1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/us/politics/04dc-memo1/04dc-memo1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/e538efd7-fb1b-5dc1-89d0-eabb93013cf0"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/04/world/europe/trump-video-nato.html",
+            "adx_keywords": "Trump, Donald J;Trudeau, Justin;Macron, Emmanuel (1977- );North Atlantic Treaty Organization;Canadian Broadcasting Corp;Canada;United States International Relations;United States Politics and Government;France",
+            "column": null,
+            "section": "World",
+            "byline": "By ANNIE KARNI and KATIE ROGERS",
+            "type": "Article",
+            "title": "Trump Abruptly Exits NATO Gathering After Embarrassing Video Emerges",
+            "abstract": "President Trump had planned to tout his foreign policy accomplishments at the meeting, but his visit was overshadowed by a gossipy video.",
+            "published_date": "2019-12-04",
+            "source": "The New York Times",
+            "id": 100000006857592,
+            "asset_id": 100000006857592,
+            "views": 3,
+            "des_facet": [
+                "UNITED STATES INTERNATIONAL RELATIONS"
+            ],
+            "org_facet": [
+                "NORTH ATLANTIC TREATY ORGANIZATION",
+                "CANADIAN BROADCASTING CORP",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "TRUDEAU, JUSTIN",
+                "MACRON, EMMANUEL (1977- )"
+            ],
+            "geo_facet": [
+                "CANADA",
+                "FRANCE"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "CBC",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/world/04trump-video-promo/04trump-video-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/world/04trump-video-promo/04trump-video-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/world/04trump-video-promo/04trump-video-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/f5ac9a42-7b13-50c1-aebe-655fce24fc1c"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/05/us/politics/pelosi-impeachment.html",
+            "adx_keywords": "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Constitution (US);House Committee on the Judiciary;House of Representatives;Pelosi, Nancy;Trump, Donald J",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By NICHOLAS FANDOS",
+            "type": "Article",
+            "title": "Pelosi Says House Will Draft Impeachment Charges Against Trump",
+            "abstract": "The speaker said she was instructing House committee chairmen to move forward with articles of impeachment against President Trump; another hearing is scheduled for Monday.",
+            "published_date": "2019-12-05",
+            "source": "The New York Times",
+            "id": 100000006860179,
+            "asset_id": 100000006860179,
+            "views": 4,
+            "des_facet": [
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY",
+                "CONSTITUTION (US)"
+            ],
+            "org_facet": [
+                "HOUSE COMMITTEE ON THE JUDICIARY",
+                "HOUSE OF REPRESENTATIVES"
+            ],
+            "per_facet": [
+                "PELOSI, NANCY",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/us/05dcimpeach-image-promo/merlin_165471657_68ef959f-4a45-40b0-8788-1322a15299cc-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/us/05dcimpeach-image-promo/merlin_165471657_68ef959f-4a45-40b0-8788-1322a15299cc-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/us/05dcimpeach-image-promo/merlin_165471657_68ef959f-4a45-40b0-8788-1322a15299cc-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/7d494967-fcc5-5d13-bc0d-009165c379ce"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/05/magazine/alex-jones-infowars.html",
+            "adx_keywords": "Infowars;Workplace Environment;Muslims and Islam;San Bernardino, Calif, Shooting (2015);Frauds and Swindling;Trump, Donald J",
+            "column": "Feature",
+            "section": "Magazine",
+            "byline": "By JOSH OWENS",
+            "type": "Article",
+            "title": "I Worked for Alex Jones. I Regret It.",
+            "abstract": "I dropped out of film school to edit video for the conspiracy theorist because I believed in his worldview. Then I saw what it did to people.",
+            "published_date": "2019-12-05",
+            "source": "The New York Times",
+            "id": 100000006849136,
+            "asset_id": 100000006849136,
+            "views": 5,
+            "des_facet": [
+                "WORKPLACE ENVIRONMENT"
+            ],
+            "org_facet": [
+                "INFOWARS",
+                "MUSLIMS AND ISLAM",
+                "SAN BERNARDINO, CALIF, SHOOTING (2015)",
+                "FRAUDS AND SWINDLING"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Eric Yahnker",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/08/magazine/08Mag-Jones-1/08Mag-Jones-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/08/magazine/08Mag-Jones-1/08Mag-Jones-1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/08/magazine/08Mag-Jones-1/08Mag-Jones-1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/bd5f4671-3587-5025-96f8-802a2a4b4463"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/04/world/asia/afghanistan-tetsu-nakamura-dead.html",
+            "adx_keywords": "Nakamura, Tetsu;Terrorism;Murders, Attempted Murders and Homicides;Irrigation;Canals;Humanitarian Aid;Afghanistan;Japan",
+            "column": null,
+            "section": "World",
+            "byline": "By ZABIHULLAH GHAZI, MUJIB MASHAL and FAHIM ABED",
+            "type": "Article",
+            "title": "‘He Showed Us Life’: Japanese Doctor Who Brought Water to Afghans Is Killed",
+            "abstract": "Tetsu Nakamura, 73, arrived in Afghanistan in the 1980s to treat leprosy. But he changed many more lives with the canal-building techniques he brought from his native Japan.",
+            "published_date": "2019-12-04",
+            "source": "The New York Times",
+            "id": 100000006857972,
+            "asset_id": 100000006857972,
+            "views": 6,
+            "des_facet": [
+                "TERRORISM"
+            ],
+            "org_facet": [
+                "MURDERS, ATTEMPTED MURDERS AND HOMICIDES",
+                "IRRIGATION",
+                "CANALS",
+                "HUMANITARIAN AID"
+            ],
+            "per_facet": [
+                "NAKAMURA, TETSU"
+            ],
+            "geo_facet": [
+                "AFGHANISTAN",
+                "JAPAN"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Nakamura in Jalalabad in 2008.",
+                    "copyright": "Rahmat Gul/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/world/04afghanistan2/04afghanistan2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/world/04afghanistan2/merlin_165393390_5a2ceb67-6294-44b8-99d2-d71e93bf0f38-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/world/04afghanistan2/merlin_165393390_5a2ceb67-6294-44b8-99d2-d71e93bf0f38-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/1ba79647-01d4-51fc-825c-b3d8245d633c"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/04/us/politics/cia-torture-drawings.html",
+            "adx_keywords": "Detainees;Interrogations;Torture;Terrorism;Military Tribunals;September 11 (2001);Waterboarding;Central Intelligence Agency;Al Qaeda;Denbeaux, Mark P;Zubaydah, Abu;Bybee, Jay S;Jessen, Bruce;Mitchell, James E;Bush, George W",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By CAROL ROSENBERG",
+            "type": "Article",
+            "title": "What the C.I.A.’s Torture Program Looked Like to the Tortured",
+            "abstract": "Drawings done in captivity by the first prisoner known to undergo “enhanced interrogation” portray his account of what happened to him in vivid and disturbing ways.",
+            "published_date": "2019-12-04",
+            "source": "The New York Times",
+            "id": 100000006844250,
+            "asset_id": 100000006844250,
+            "views": 7,
+            "des_facet": [
+                "DETAINEES",
+                "INTERROGATIONS",
+                "TORTURE",
+                "TERRORISM"
+            ],
+            "org_facet": [
+                "MILITARY TRIBUNALS",
+                "SEPTEMBER 11 (2001)",
+                "WATERBOARDING",
+                "CENTRAL INTELLIGENCE AGENCY",
+                "AL QAEDA"
+            ],
+            "per_facet": [
+                "DENBEAUX, MARK P",
+                "ZUBAYDAH, ABU",
+                "BYBEE, JAY S",
+                "JESSEN, BRUCE",
+                "MITCHELL, JAMES E",
+                "BUSH, GEORGE W"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Abu Zubaydah, Courtesy Mark P. Denbeaux",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/26/us/politics/00dc-torturetechniques-03/00dc-torturetechniques-03-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/11/26/us/politics/00dc-torturetechniques-03/00dc-torturetechniques-03-mediumThreeByTwo210-v6.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/2045b72d-879e-5a05-b7fd-50730e32a4d6"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/04/sports/houston-rockets-james-harden-san-antonio-spurs-nba.html",
+            "adx_keywords": "Basketball;Officiating (Sports);Atlanta Hawks;Harden, James",
+            "column": null,
+            "section": "Sports",
+            "byline": "By VICTOR MATHER",
+            "type": "Article",
+            "title": "James Harden Dunked It. Ruling: No Basket.",
+            "abstract": "The Rockets are up in arms about a dubious call in a loss to the Spurs.",
+            "published_date": "2019-12-04",
+            "source": "The New York Times",
+            "id": 100000006858015,
+            "asset_id": 100000006858015,
+            "views": 8,
+            "des_facet": [
+                "BASKETBALL",
+                "OFFICIATING (SPORTS)"
+            ],
+            "org_facet": [
+                "ATLANTA HAWKS"
+            ],
+            "per_facet": [
+                "HARDEN, JAMES"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A dunk that wasn’t by James Harden overshadowed a two-overtime game against the Spurs.",
+                    "copyright": "Daniel Dunn/USA Today Sports, via Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/sports/04hardenWEB1/04hardenWEB1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/sports/04hardenWEB1/merlin_165393519_3e470353-062d-4830-b0fd-b2fc48fa7f2c-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/sports/04hardenWEB1/merlin_165393519_3e470353-062d-4830-b0fd-b2fc48fa7f2c-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/0a705c3a-63ae-5078-bb7b-5886d8bb05eb"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/05/us/politics/joe-biden-push-ups.html",
+            "adx_keywords": "Presidential Election of 2020;Biden, Joseph R Jr;Kerry, John;Endorsements",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By THOMAS KAPLAN and KATIE GLUECK",
+            "type": "Article",
+            "title": "Joe Biden Trades Barbs With Voter in Iowa: ‘You’re a Damn Liar’",
+            "abstract": "Shortly after John Kerry, the former secretary of state, endorsed Mr. Biden in the 2020 Democratic primary, the former vice president had a heated confrontation with a voter.",
+            "published_date": "2019-12-05",
+            "source": "The New York Times",
+            "id": 100000006860600,
+            "asset_id": 100000006860600,
+            "views": 9,
+            "des_facet": [
+                "PRESIDENTIAL ELECTION OF 2020",
+                "ENDORSEMENTS"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "BIDEN, JOSEPH R JR",
+                "KERRY, JOHN"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Vice President Joseph R. Biden Jr. is questioned about his son in New Hampton, Iowa, during a stop on his “No Malarkey” bus tour.",
+                    "copyright": "Calla Kessler/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/multimedia/05biden-kerry-02/05biden-kerry-02-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/multimedia/05biden-kerry-02/merlin_165481020_071ef756-0072-4ce5-9b24-d964cbcb7cd6-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/multimedia/05biden-kerry-02/merlin_165481020_071ef756-0072-4ce5-9b24-d964cbcb7cd6-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/f7f4c819-e79c-536a-83b6-d52cc74381cf"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/04/us/politics/food-stamps.html",
+            "adx_keywords": "Food;Poverty;Welfare (US);United States Politics and Government;Food Stamps;Agriculture Department;Perdue, Sonny;Trump, Donald J",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By LOLA FADULU",
+            "type": "Article",
+            "title": "Hundreds of Thousands Are Losing Access to Food Stamps",
+            "abstract": "The Agriculture Department gave its final approval to the first of three rules that are ultimately expected to cut more than three million from the food stamp rolls.",
+            "published_date": "2019-12-04",
+            "source": "The New York Times",
+            "id": 100000006856769,
+            "asset_id": 100000006856769,
+            "views": 10,
+            "des_facet": [
+                "FOOD",
+                "POVERTY",
+                "WELFARE (US)",
+                "FOOD STAMPS"
+            ],
+            "org_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "AGRICULTURE DEPARTMENT"
+            ],
+            "per_facet": [
+                "PERDUE, SONNY",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Meals were prepared at a food bank in Hillside, N.J. Nearly 700,000 people would lose food stamps under the new rule.",
+                    "copyright": "Sarah Blesener for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/us/politics/04dc-foodstamps/04dc-foodstamps-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/us/politics/04dc-foodstamps/merlin_163619505_3813898b-5ba8-47f7-93cb-43371cab6d74-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/us/politics/04dc-foodstamps/merlin_163619505_3813898b-5ba8-47f7-93cb-43371cab6d74-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/eb653390-9fa1-53b6-8077-4530cfe05453"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/04/climate/florida-keys-climate-change.html",
+            "adx_keywords": "Florida Keys;Global Warming;Infrastructure (Public Works);Land Use Policies;Roads and Traffic;Floods;Coastal Areas;Monroe County (Fla)",
+            "column": null,
+            "section": "Climate",
+            "byline": "By CHRISTOPHER FLAVELLE and PATRICIA MAZZEI",
+            "type": "Article",
+            "title": "Florida Keys Deliver a Hard Message: As Seas Rise, Some Places Can’t Be Saved",
+            "abstract": "A project to calculate the cost of raising roads shows that some places may not justify the vast expense, casting doubt on the future of those areas.",
+            "published_date": "2019-12-04",
+            "source": "The New York Times",
+            "id": 100000006857474,
+            "asset_id": 100000006857474,
+            "views": 11,
+            "des_facet": [
+                "GLOBAL WARMING",
+                "INFRASTRUCTURE (PUBLIC WORKS)",
+                "LAND USE POLICIES",
+                "ROADS AND TRAFFIC",
+                "COASTAL AREAS"
+            ],
+            "org_facet": [
+                "FLOODS"
+            ],
+            "per_facet": "",
+            "geo_facet": [
+                "FLORIDA KEYS",
+                "MONROE COUNTY (FLA)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sunset on Sugarloaf Key, Fla. Officials said Wednesday it’s too costly to protect part of the island against rising seas.",
+                    "copyright": "Angel Valentin for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/climate/04CLI-KEYS1/04CLI-KEYS1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/climate/04CLI-KEYS1/04CLI-KEYS1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/climate/04CLI-KEYS1/04CLI-KEYS1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/eac08c3d-eecc-5340-9cba-650f4c1bf57a"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/05/opinion/politics/antisemitism-europe-corbyn.html",
+            "adx_keywords": "Anti-Semitism;Jews and Judaism;Politics and Government;Fringe Groups and Movements;Zionism;Assaults;Corbyn, Jeremy (1949- );Sarsour, Linda (1980- )",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By BARI WEISS",
+            "type": "Article",
+            "title": "Inconvenient Murders",
+            "abstract": "The global surge in Jew-hatred barely registers in the West.",
+            "published_date": "2019-12-05",
+            "source": "The New York Times",
+            "id": 100000006855546,
+            "asset_id": 100000006855546,
+            "views": 12,
+            "des_facet": [
+                "ANTI-SEMITISM",
+                "JEWS AND JUDAISM",
+                "POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "FRINGE GROUPS AND MOVEMENTS",
+                "ZIONISM",
+                "ASSAULTS"
+            ],
+            "per_facet": [
+                "CORBYN, JEREMY (1949- )",
+                "SARSOUR, LINDA (1980- )"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jews in Westhoffen, France, at a Jewish cemetery where 107 graves were vandalized with swastikas and white supremacist symbols this week.",
+                    "copyright": "Jean-Francois Badias/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/opinion/05weiss/05weiss-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/opinion/05weiss/05weiss-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/opinion/05weiss/05weiss-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/9753ea59-ecaf-5f8a-89e9-ecd325de7576"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/04/nyregion/tekashi-69-sentencing.html",
+            "adx_keywords": "6ix9ine (Rapper);Manhattan (NYC);Rap and Hip-Hop;Racketeering and Racketeers",
+            "column": null,
+            "section": "New York",
+            "byline": "By ED SHANAHAN and BENJAMIN WEISER",
+            "type": "Article",
+            "title": "Tekashi69 Is Praised by Prosecutors, Who Urge a Lenient Sentence",
+            "abstract": "His cooperation with the government led hip-hop fans and other rappers to call him a snitch and a fraud.",
+            "published_date": "2019-12-04",
+            "source": "The New York Times",
+            "id": 100000006859613,
+            "asset_id": 100000006859613,
+            "views": 13,
+            "des_facet": [
+                "RAP AND HIP-HOP",
+                "RACKETEERING AND RACKETEERS"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "6IX9INE (RAPPER)"
+            ],
+            "geo_facet": [
+                "MANHATTAN (NYC)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jefferson Siegel for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/nyregion/04Tekashi-a-promo/04Tekashi-a-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/nyregion/04Tekashi-a-promo/04Tekashi-a-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/04/nyregion/04Tekashi-a-promo/04Tekashi-a-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/51a219ce-aaf7-5da5-8686-df26441f881f"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/04/climate/climate-change-acceleration.html",
+            "adx_keywords": "Global Warming;Greenhouse Gas Emissions;United Nations Framework Convention on Climate Change;United Nations Climate Action Summit (2019);World Meteorological Organization",
+            "column": null,
+            "section": "Climate",
+            "byline": "By HENRY FOUNTAIN",
+            "type": "Article",
+            "title": "Climate Change Is Accelerating, Bringing World ‘Dangerously Close’ to Irreversible Change",
+            "abstract": "The acceleration climate change's effects have brought the world “dangerously close” to abrupt and irreversible changes, scientists warned. ",
+            "published_date": "2019-12-04",
+            "source": "The New York Times",
+            "id": 100000006839141,
+            "asset_id": 100000006839141,
+            "views": 14,
+            "des_facet": [
+                "GLOBAL WARMING",
+                "GREENHOUSE GAS EMISSIONS",
+                "UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE"
+            ],
+            "org_facet": [
+                "UNITED NATIONS CLIMATE ACTION SUMMIT (2019)",
+                "WORLD METEOROLOGICAL ORGANIZATION"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A whirlwind of hot ash and embers tore through the Cave Fire in Santa Barbara, Calif., last month.",
+                    "copyright": "David Mcnew/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/02/climate/00CLI-ACCELERATE1/00CLI-ACCELERATE1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/02/climate/00CLI-ACCELERATE1/00CLI-ACCELERATE1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/02/climate/00CLI-ACCELERATE1/00CLI-ACCELERATE1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/25476a03-d648-5c0e-baf4-11ec49a82887"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/04/movies/best-films.html",
+            "adx_keywords": "Movies;Almodovar, Pedro;Baumbach, Noah;Bong Joon Ho;Diop, Mati;Gerwig, Greta;Costa, Petra (1983- );Scorsese, Martin;Wilde, Olivia;Tarantino, Quentin;Little Women (Movie);Marriage Story (Movie);Once Upon a Time in Hollywood (Movie);Parasite (Movie);The Edge of Democracy (Movie);The Irishman (Movie);Honeyland (Movie);Kotevska, Tamara;Stefanov, Ljubomir;Hogg, Joanna;The Souvenir (Movie);Leigh, Mike;Petzold, Christian;Lapid, Nadav;One Child Nation (Movie);Wang, Nanfu;Zhang, Jialing;Talbot, Joe;The Last Black Man in San Francisco (Movie);Transit (Movie);American Factory (Movie);2019 Arts in Review;Two Thousand Nineteen",
+            "column": null,
+            "section": "Movies",
+            "byline": "By A.O. SCOTT and MANOHLA DARGIS",
+            "type": "Article",
+            "title": "Best Movies of 2019",
+            "abstract": "These titles prove that while the streaming arguments rage and the medium may be a mess, the art form is as healthy as ever.",
+            "published_date": "2019-12-04",
+            "source": "The New York Times",
+            "id": 100000006854019,
+            "asset_id": 100000006854019,
+            "views": 15,
+            "des_facet": [
+                "MOVIES",
+                "TWO THOUSAND NINETEEN"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "ALMODOVAR, PEDRO",
+                "BAUMBACH, NOAH",
+                "BONG JOON HO",
+                "DIOP, MATI",
+                "GERWIG, GRETA",
+                "COSTA, PETRA (1983- )",
+                "SCORSESE, MARTIN",
+                "WILDE, OLIVIA",
+                "TARANTINO, QUENTIN",
+                "KOTEVSKA, TAMARA",
+                "STEFANOV, LJUBOMIR",
+                "HOGG, JOANNA",
+                "LEIGH, MIKE",
+                "PETZOLD, CHRISTIAN",
+                "LAPID, NADAV",
+                "WANG, NANFU",
+                "ZHANG, JIALING",
+                "TALBOT, JOE"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Clockwise from bottom left: Netflix, via Associated Press; Sony Pictures; Neon",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/08/arts/08movies-year-end-promo/08movies-year-end-promo-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/08/arts/08movies-year-end-promo/08movies-year-end-02-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/08/arts/08movies-year-end-promo/08movies-year-end-02-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/7b603155-d02e-5e6f-b310-02520e4f4e98"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/11/28/opinion/trump-kevin-dowd.html",
+            "adx_keywords": "Thanksgiving Day;Trump, Donald J;Presidential Election of 2020",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By MAUREEN DOWD",
+            "type": "Article",
+            "title": "Kevin Talks Turkey",
+            "abstract": "My brother dishes on Trump, impeachment and the 2020 field.",
+            "published_date": "2019-11-28",
+            "source": "The New York Times",
+            "id": 100000006847913,
+            "asset_id": 100000006847913,
+            "views": 16,
+            "des_facet": [
+                "THANKSGIVING DAY",
+                "PRESIDENTIAL ELECTION OF 2020"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Gabriella Demczuk for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/opinion/01Dowd--03/01Dowd--03-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/opinion/01Dowd--03/01Dowd--03-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/01/opinion/01Dowd--03/01Dowd--03-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/abe360d5-8eb6-5d2a-8614-700b0d195a69"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/05/arts/television/late-night-trevor-noah-nato-trump.html",
+            "adx_keywords": "Colbert, Stephen;Corden, James (1978- );Fallon, Jimmy;Johnson, Boris;Macron, Emmanuel (1977- );Kimmel, Jimmy;Noah, Trevor (1984- );O'Brien, Conan;Trudeau, Justin;Trump, Donald J;Conan (TV Program);Late Show with Stephen Colbert (TV Program);The Daily Show with Trevor Noah (TV Program);The Late Late Show with James Corden (TV Program)",
+            "column": "Best of Late Night",
+            "section": "Arts",
+            "byline": "By TRISH BENDIX",
+            "type": "Article",
+            "title": "Late Night Can’t Get Enough of World Leaders Laughing at Trump",
+            "abstract": "President Trump’s leaving NATO early after the release of a video in which leaders mock him was like a child calling his mother to come get him from a sleepover, Trevor Noah said.",
+            "published_date": "2019-12-05",
+            "source": "The New York Times",
+            "id": 100000006858375,
+            "asset_id": 100000006858375,
+            "views": 17,
+            "des_facet": "",
+            "org_facet": "",
+            "per_facet": [
+                "COLBERT, STEPHEN",
+                "CORDEN, JAMES (1978- )",
+                "FALLON, JIMMY",
+                "JOHNSON, BORIS",
+                "MACRON, EMMANUEL (1977- )",
+                "KIMMEL, JIMMY",
+                "NOAH, TREVOR (1984- )",
+                "O'BRIEN, CONAN",
+                "TRUDEAU, JUSTIN",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Yeah, it turns out NATO is so catty, they should get Andy Cohen to host it,” Trevor Noah joked on Wednesday.",
+                    "copyright": "Comedy Central",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/arts/05latenight/05latenight-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/arts/05latenight/05latenight-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/arts/05latenight/05latenight-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/2f7856e2-1089-50e1-ae06-2e28b2e8bd6f"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/05/sports/football/ohio-high-school-marion-local.html",
+            "adx_keywords": "Football;Interscholastic Athletics;Ohio State University;Concussions",
+            "column": "On defense",
+            "section": "Sports",
+            "byline": "By JOE DRAPE",
+            "type": "Article",
+            "title": "Football Is Dying in Ohio. A Coach in This County Made It Thrive.",
+            "abstract": "Demographics suggest football should be dying in Mercer County. Instead it’s booming and producing state champions.",
+            "published_date": "2019-12-05",
+            "source": "The New York Times",
+            "id": 100000006840967,
+            "asset_id": 100000006840967,
+            "views": 18,
+            "des_facet": [
+                "FOOTBALL"
+            ],
+            "org_facet": [
+                "INTERSCHOLASTIC ATHLETICS",
+                "OHIO STATE UNIVERSITY",
+                "CONCUSSIONS"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": null,
+                    "copyright": "Andrew Spear for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/sports/05football-ohio1/merlin_164234091_67e06934-b87b-4636-b409-53fdbdd4c3f0-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/sports/05football-ohio1/merlin_164234091_67e06934-b87b-4636-b409-53fdbdd4c3f0-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/05/sports/05football-ohio1/merlin_164234091_67e06934-b87b-4636-b409-53fdbdd4c3f0-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/a3fa78da-5a2a-5aca-b987-e5dae5b2bfef"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/03/opinion/deepika-padukone-depression.html",
+            "adx_keywords": "Mental Health and Disorders;Padukone, Deepika;India;Depression (Mental);Actors and Actresses",
+            "column": "Turning Points",
+            "section": "Opinion",
+            "byline": "By DEEPIKA PADUKONE, AS TOLD TO ILARIA PAROGNI",
+            "type": "Article",
+            "title": "Perspective: India’s Deepika Padukone on Why She Took Her Battle With Depression Public",
+            "abstract": "The Bollywood star was diagnosed with the illness in 2014. She is now committed to reducing the stigma against depression in her country.",
+            "published_date": "2019-12-03",
+            "source": "The New York Times",
+            "id": 100000006785876,
+            "asset_id": 100000006785876,
+            "views": 19,
+            "des_facet": [
+                "MENTAL HEALTH AND DISORDERS",
+                "DEPRESSION (MENTAL)"
+            ],
+            "org_facet": [
+                "ACTORS AND ACTRESSES"
+            ],
+            "per_facet": [
+                "PADUKONE, DEEPIKA"
+            ],
+            "geo_facet": [
+                "INDIA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The actress Deepika Padukone in May at the 72nd Cannes Film Festival in France. Since publicizing her struggles with depression, Ms. Padukone has challenged taboos surrounding mental health issues in India.",
+                    "copyright": "Stephane Mahe/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/02/multimedia/02tp-padukone/02tp-padukone-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/02/multimedia/02tp-padukone/02tp-padukone-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/02/multimedia/02tp-padukone/02tp-padukone-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/b62430ee-006e-5d69-ad19-93e8598d6961"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/12/03/business/peloton-bike-ad-stock.html",
+            "adx_keywords": "Peloton Interactive Inc;Advertising and Marketing;Bicycles and Bicycling;Exercise;Computers and the Internet;Social Media;Twitter;Women and Girls;Discrimination;Video Recordings, Downloads and Streaming",
+            "column": null,
+            "section": "Business",
+            "byline": "By AIMEE ORTIZ",
+            "type": "Article",
+            "title": "Peloton Ad Is Criticized as Sexist and Dystopian",
+            "abstract": "The 30-second ad, which features a man giving a woman a Peloton Bike for the holidays, inspired parodies on social media and comparisons to “Black Mirror.”",
+            "published_date": "2019-12-03",
+            "source": "The New York Times",
+            "id": 100000006856998,
+            "asset_id": 100000006856998,
+            "views": 20,
+            "des_facet": [
+                "BICYCLES AND BICYCLING",
+                "EXERCISE",
+                "COMPUTERS AND THE INTERNET",
+                "SOCIAL MEDIA"
+            ],
+            "org_facet": [
+                "PELOTON INTERACTIVE INC",
+                "ADVERTISING AND MARKETING",
+                "TWITTER",
+                "WOMEN AND GIRLS",
+                "DISCRIMINATION",
+                "VIDEO RECORDINGS, DOWNLOADS AND STREAMING"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In condemning the ad, some denounced the Peloton Bike itself, which retails for over $2,000, as a luxury good available to only the wealthy.",
+                    "copyright": "Alana Paterson for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/03/multimedia/03xp-peloton/03xp-peloton-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/03/multimedia/03xp-peloton/03xp-peloton-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/03/multimedia/03xp-peloton/03xp-peloton-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/0f1fc5fe-c99c-5871-bc91-f32fea7d6dd9"
+        }
+    ]
+}
